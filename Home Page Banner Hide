@@ -28,7 +28,7 @@ jQuery.Class("ExtensionStore_ExtensionStore_Js", {}, {
     /**
      * Function to getPromotions from marketplace
      */
-    getPromotions : function(){}
+    getPromotions : function(){
         var thisInstance = this;
         var params = {
             'module': 'ExtensionStore',
