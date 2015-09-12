@@ -1,0 +1,2 @@
+Base Currency Change
+vtiger_currency_info` SET `defaultid` = '-11'
